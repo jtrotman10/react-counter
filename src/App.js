@@ -126,6 +126,7 @@ function App() {
         </tbody>
       </table>
       <p class='text-center'>&copy; 2022 <a href="https://circlebox.com">Circlebox LLC</a></p>
+      <p>Code is available at <a href="https://github.com/jtrotman10/react-counter">https://github.com/jtrotman10/react-counter</a></p>
     </div>
   );
 }
